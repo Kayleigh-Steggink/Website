@@ -131,7 +131,9 @@ section{
     gap: 10rem;
     
 }
-
+.about a{
+    color: black;
+}
 .about img{
     width: 25vw;
     border-radius: 10px;
